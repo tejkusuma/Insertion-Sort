@@ -2,11 +2,11 @@
 
 int main(){
 	
-	int	data[100];
+	int data[100];
   	int i,n,j,tmp;
 
   	printf("------------------------------------------------------- \n");
-	printf("|   PROGRAM PENGURUTAN ANGKA DENGAN SORT INSERTION     | \n");
+	printf("|   PROGRAM PENGURUTAN ANGKA DENGAN INSERTION SORT     | \n");
     printf("------------------------------------------------------- \n\n");
     
     //memasukkan jumlah data oleh pengguna
